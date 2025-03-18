@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d4b7ad3aae1e6547864231210acf092, type: 3}
+  m_Name: SceneDataArena3
+  m_EditorClassIdentifier: 
+  EnemiesType:
+  - {fileID: 8590659139627040049, guid: ab960db92c5dd3841b920ccd5cfd09f2, type: 3}
+  - {fileID: 8202297556173530283, guid: 9a24b63e746f3494ebb81c13218f2b5b, type: 3}
+  - {fileID: 8539252667250699905, guid: a9e363bb0dabcf745a0073d81ceac554, type: 3}
+  EnemiesCount: 090000000600000005000000

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 800c9e8af75f1594eb5492fc820aab27, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  _playerData: {fileID: 11400000, guid: 71501190d09b90f4b819ba7bc155e5c5, type: 2}
+  BaseCharacters:
+  - {fileID: 11400000, guid: 65fbae804fc9c984cbaa4d55ccc2bdad, type: 2}
+  - {fileID: 11400000, guid: 96b3fb9d01b35074e86fc53d7d82ff5a, type: 2}
+  - {fileID: 11400000, guid: 82865ef25e683d64aa245cc76eea0fd8, type: 2}
+  BaseWeapons:
+  - {fileID: 11400000, guid: d764cf70ad9ae234992ecd39bcab30e1, type: 2}
+  - {fileID: 11400000, guid: 2c9affc90b2b87244b4a5a1facb299a5, type: 2}
+  - {fileID: 11400000, guid: 89a55d2ae80f3ac43b6eaa43dc9873fb, type: 2}
+  WeaponsUpgradesConfig:
+  - {fileID: 11400000, guid: c1d6242dff23c5f44809f077a194a1ba, type: 2}
+  - {fileID: 11400000, guid: 7c520acf9b2b4bc4a8130cc7c26a62d9, type: 2}
+  - {fileID: 11400000, guid: 0dcf86d94a79e0c47b5955f4b4545cf8, type: 2}

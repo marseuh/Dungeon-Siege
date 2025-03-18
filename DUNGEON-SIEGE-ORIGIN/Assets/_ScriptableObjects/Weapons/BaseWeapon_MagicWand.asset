@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8654cebf9905d7469325def88fb7a70, type: 3}
+  m_Name: BaseWeapon_MagicWand
+  m_EditorClassIdentifier: 
+  Name: Baguette
+  UISprite: {fileID: 21300000, guid: 866886a4c236e1843be677daf70f245a, type: 3}
+  TradeIcon: {fileID: 21300000, guid: bfd2cb20639b19347acccb07ef6474b6, type: 3}
+  Damages: 1
+  AttackSpeed: 0.5
+  Range: 6
+  Ability: {fileID: 11400000, guid: 850ce9158f9507b4c9c1bf823a15daf1, type: 2}
+  AbilityVisualEffectPrefab: {fileID: 8207281649134700329, guid: ac6c3e304ef9fe74f8a443be8b3b318a,
+    type: 3}

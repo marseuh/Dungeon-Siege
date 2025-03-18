@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06da3fa2c2a3fc0448098a391b8fbd9a, type: 3}
+  m_Name: BaseCharacter_SpellBook
+  m_EditorClassIdentifier: 
+  Name: Michel
+  UISprite: {fileID: 0}
+  MaxHealth: 15
+  MovementSpeed: 12
+  BaseDamages: 0
+  BaseAttackSpeed: 0
+  BaseRange: 0
+  BaseWeapon: {fileID: 11400000, guid: 2c9affc90b2b87244b4a5a1facb299a5, type: 2}
+  CharacterLook: {fileID: 3861122734894233436, guid: b46142260fb960741936371b02e0b826,
+    type: 3}

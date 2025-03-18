@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2efa1caf50ec64943a22c7e0303786b2, type: 3}
+  m_Name: SpawnerData 9
+  m_EditorClassIdentifier: 
+  WaveOptions:
+  - DoSpawn: 0
+    Prefab: {fileID: 0}
+  - DoSpawn: 0
+    Prefab: {fileID: 0}
+  - DoSpawn: 0
+    Prefab: {fileID: 0}
+  - DoSpawn: 0
+    Prefab: {fileID: 0}
+  - DoSpawn: 1
+    Prefab: {fileID: 8202297556173530283, guid: 9a24b63e746f3494ebb81c13218f2b5b,
+      type: 3}

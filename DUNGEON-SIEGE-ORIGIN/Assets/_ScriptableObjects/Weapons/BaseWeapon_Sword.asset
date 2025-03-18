@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8654cebf9905d7469325def88fb7a70, type: 3}
+  m_Name: BaseWeapon_Sword
+  m_EditorClassIdentifier: 
+  Name: Master
+  UISprite: {fileID: 21300000, guid: c85d66e41193b534997993ae020bd331, type: 3}
+  Damages: 2
+  AttackSpeed: 0.75
+  Range: 2
+  Ability: {fileID: 11400000, guid: 540aed5729d680341aadbcb13d6a4629, type: 2}
+  AbilityVisualEffectPrefab: {fileID: 3806561042892059308, guid: 5eac8b5a2c9a13f48a86f532bc4cad72,
+    type: 3}

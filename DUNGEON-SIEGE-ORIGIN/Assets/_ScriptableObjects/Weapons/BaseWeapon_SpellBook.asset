@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8654cebf9905d7469325def88fb7a70, type: 3}
+  m_Name: BaseWeapon_SpellBook
+  m_EditorClassIdentifier: 
+  Name: Wololo
+  UISprite: {fileID: 21300000, guid: f05839cbb336a14408beacbbbf00a26d, type: 3}
+  TradeIcon: {fileID: 21300000, guid: 5f1e96308e545f64a825ddf1e3f7ccf1, type: 3}
+  Damages: 1
+  AttackSpeed: 1.5
+  Range: 3
+  Ability: {fileID: 11400000, guid: 079cb4c6bfba02248aeb034d600a9475, type: 2}
+  AbilityVisualEffectPrefab: {fileID: 8207281649134700329, guid: 859cd34b54fe38345820d0b7cf352c51,
+    type: 3}

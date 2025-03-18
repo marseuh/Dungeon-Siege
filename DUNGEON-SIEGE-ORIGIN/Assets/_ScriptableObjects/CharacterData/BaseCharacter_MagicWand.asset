@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06da3fa2c2a3fc0448098a391b8fbd9a, type: 3}
+  m_Name: BaseCharacter_MagicWand
+  m_EditorClassIdentifier: 
+  Name: Jeanne (oskour)
+  UISprite: {fileID: 0}
+  MaxHealth: 10
+  MovementSpeed: 10
+  BaseDamages: 0
+  BaseAttackSpeed: 0
+  BaseRange: 0
+  BaseWeapon: {fileID: 11400000, guid: 89a55d2ae80f3ac43b6eaa43dc9873fb, type: 2}
+  CharacterLook: {fileID: 3861122734894233436, guid: b52c38e5b48f6874cadf8abd27431da2,
+    type: 3}

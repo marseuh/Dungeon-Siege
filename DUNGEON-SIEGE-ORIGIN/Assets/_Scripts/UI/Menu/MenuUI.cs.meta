@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 71a482ce641f30c49966663beed779a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - settingsPanel: {fileID: 5262937664807931331, guid: 5074f2bfae20e514bab5bf947cfa5263,
+      type: 3}
+  - menuPanel: {fileID: 4653056621042819074, guid: 6346a584e5e737c4f9e26561de48208c,
+      type: 3}
+  - weaponsPanel: {fileID: 3476956527313877631, guid: 68ae6e37e60528c4fb61ba091771d1fd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
